@@ -1,6 +1,6 @@
 # OBSOLETE
 
-This bundle has been renamed to SymfonyCmfRoutingBundle. Use this old
+This bundle has been renamed to [SymfonyCmfRoutingBundle](https://github.com/symfony-cmf/RoutingBundle). Use this old
 version for Symfony 2.1 projects.
 
 ## Symfony CMF Routing Extra Bundle [![Build Status](https://secure.travis-ci.org/symfony-cmf/RoutingExtraBundle.png)](http://travis-ci.org/symfony-cmf/RoutingExtraBundle)
