@@ -14,16 +14,16 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.3",
-        "symfony-cmf/routing": ">=1.0.0-beta1,<1.1-dev",
-        "symfony/framework-bundle": ">=2.1.7,<2.3-dev",
-        "symfony/monolog-bundle": ">=2.1,<2.3-dev"
+        "symfony-cmf/routing": ">=1.0.0-beta1,~1.1",
+        "symfony/framework-bundle": "~2.2",
+        "symfony/monolog-bundle": "~2.2"
     },
     "require-dev": {
-        "symfony/class-loader": ">=2.1,<2.3-dev",
+        "symfony/class-loader": "~2.2",
         "doctrine/doctrine-bundle": "1.*",
-        "symfony/yaml": ">=2.1,<2.3-dev",
-        "symfony/form": ">=2.1,<2.3-dev",
-        "symfony/finder": ">=2.1,<2.3-dev",
+        "symfony/yaml": "~2.2",
+        "symfony/form": "~2.2",
+        "symfony/finder": "~2.2",
         "jackalope/jackalope-doctrine-dbal": "1.0.*",
         "doctrine/phpcr-odm": "1.0.*",
         "doctrine/phpcr-bundle": "1.0.*"
